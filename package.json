@@ -1,0 +1,18 @@
+{
+  "name": "get_sp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/dialog-node": "^0.2.0",
+    "@types/mssql": "^8.0.1",
+    "dialog-node": "^0.2.1",
+    "mssql": "^8.1.2"
+  }
+}
